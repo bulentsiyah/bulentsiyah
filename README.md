@@ -1,5 +1,3 @@
-
-
 <p align='left'>
   Hi 👋 I am working on Deep Learning and Computer Vision in Flying Automobile Project.
 
@@ -15,6 +13,11 @@ You can access my work in all areas on my website (www.bulentsiyah.com). In addi
 &nbsp;&nbsp;
 </p>
 
+<p align='left'>
+  📫 How to reach me: <a href='mailto:info@bulentsiyah.com'>info@bulentsiyah.com</a>
+</p>
+
+&nbsp;&nbsp;
 
 <p align='left'>
   <a href="https://www.linkedin.com/in/bulentsiyah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,8 +28,3 @@ You can access my work in all areas on my website (www.bulentsiyah.com). In addi
   &nbsp;&nbsp;
   <a href="https://twitter.com/siyahbulent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
-
-<p align='left'>
-  📫 How to reach me: <a href='mailto:info@bulentsiyah.com'>info@bulentsiyah.com</a>
-</p>
-
