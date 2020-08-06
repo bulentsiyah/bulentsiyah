@@ -3,7 +3,7 @@
 
 In collaboration with SoftTech Software Technologies (https://softtech.com.tr/) and Aircar Corp. (http://www.aircarcorp.com/), electric-powered vertical takeoff and landing (eVTOL) aircraft are being developed.
 
-The projects I am working on are Semantic segmentation (Aerial images) during the flight of the vehicle to find suitable areas where the vehicle can land. To make volumetric control of the vehicle to these areas. Other projects, such as positioning on the image that will be activated at the time of GPS loss and Passenger mood analysis.
+The projects I am working on are projects such as Semantic segmentation (Aerial images), which is used to find suitable areas where the vehicle can land during flight and to make volumetric control of these areas and positioning on the image to be activated GPS loss or Passenger mood analysis
 
 You can access my work in all areas on my website (www.bulentsiyah.com). In addition to my website, you can review the source codes of all my works from my Kaggle and Github profiles.
 
