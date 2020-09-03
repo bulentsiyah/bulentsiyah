@@ -27,3 +27,7 @@ You can access my work in all areas on my website (www.bulentsiyah.com). In addi
   &nbsp;&nbsp;
   <a href="https://twitter.com/siyahbulent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+
+
+### Github Stats
+<img align="left" alt="bulentsiyah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bulentsiyah&show_icons=true&hide_border=true&theme=radical" />
