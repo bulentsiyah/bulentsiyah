@@ -32,7 +32,7 @@ You can access my work in all areas on my website (www.bulentsiyah.com). In addi
 ### Github Stats
 
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bulentsiyah&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=bulentsiyah&show_icons=true&count_private=true&theme=radical" width="450" height="350" ></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulentsiyah&layout=compact&theme=radical" width="350" height="250" ></a>
 
 </div>
