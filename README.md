@@ -21,9 +21,9 @@ You can access my work in all areas on my website (www.bulentsiyah.com). In addi
 <p align='left'>
   <a href="https://www.linkedin.com/in/bulentsiyah/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/bulentsiyah"><img src="https://github.com/bulentsiyah/bulentsiyah/blob/master/images/kaggle.png"></a> 
+  <a href="https://www.kaggle.com/bulentsiyah"><img src="https://github.com/bulentsiyah/bulentsiyah/blob/master/images/kaggle.png?raw=true"></a> 
   &nbsp;&nbsp;
-  <a href="https://github.com/bulentsiyah"><img src="https://github.com/bulentsiyah/bulentsiyah/blob/master/images/github.png"></a> 
+  <a href="https://github.com/bulentsiyah"><img src="https://raw.githubusercontent.com/bulentsiyah/bulentsiyah/master/images/github.png"></a> 
   &nbsp;&nbsp;
   <a href="https://twitter.com/siyahbulent"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
