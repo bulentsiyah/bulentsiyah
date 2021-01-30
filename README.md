@@ -1,12 +1,12 @@
-Hi 👋 I am working on Deep Learning and Computer Vision in Flying Automobile Project.
+Hi 👋,  I am working on Deep Learning and Computer Vision, especially on Unmanned Aerial Vehicles (UAV).
 
-In collaboration with SoftTech Software Technologies (https://softtech.com.tr/) and Aircar Corp. (http://www.aircarcorp.com/), electric-powered vertical takeoff and landing (eVTOL) aircraft are being developed.
+The projects I have been working on; Emergency Landing Site Identification System, Sense and Avoid System, Guidance for Autonomous Landing, Vision-Based Navigation of UAV in GPS Denied Conditions
 
-The projects I am working on are projects such as Semantic segmentation (Aerial images), which is used to find suitable areas where the vehicle can land during flight and to make volumetric control of these areas and positioning on the image to be activated GPS loss or Passenger mood analysis
+My skills; Image classification, Image Segmentation, Object Detection, Object Recognition, Object Tracking, Pose Estimation, Pattern Recognition, Autonomous Vehicles
 
-You can access my work in all areas on my website (www.bulentsiyah.com). In addition to my website, you can review the source codes of all my works from my Kaggle and Github profiles.
+You can access my work on my website (www.bulentsiyah.com). You can review the source codes of all my work from my Kaggle and Github profiles.
 
-#eVtol #FlyingCar #ComputerVision #DeepLearning 
+#ComputerVision #DeepLearning
 
 [My Resume is here](https://github.com/bulentsiyah/bulentsiyah/blob/master/Bulent_Siyah_resume_2020-05-16.pdf)
 
