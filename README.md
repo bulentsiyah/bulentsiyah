@@ -10,6 +10,8 @@ You can access my work on my website (www.bulentsiyah.com). You can review the s
 
 [My Resume is here](https://github.com/bulentsiyah/bulentsiyah/blob/master/Bulent_Siyah_resume_2020-05-16.pdf)
 
+![Visitors since 22 Nov 2021](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=bulentsiyah&repo=bulentsiyah&countColor=%23f47373)
+
 --------------------------------
 ## 🤝🏻 Connect with Me
 | [![](https://img.shields.io/static/v1?style=for-the-badge&message=bulentsiyah.com&color=red&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://www.bulentsiyah.com/)      | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulentsiyah/) |  [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bulentsiyah/)  |
