@@ -35,3 +35,11 @@ You can access my work on my website (www.bulentsiyah.com). You can review the s
 --------------------------------
 
 
+<div id="header" align="center">
+  <h1> My Kaggle Stats</h1>
+  
+  ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/competition)
+  ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/dataset)
+  ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/notebook)
+  ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/discussion)
+</div>
