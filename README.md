@@ -1,16 +1,10 @@
-Hi 👋,  I am working on Deep Learning and Computer Vision, especially on Unmanned Aerial Vehicles (UAV).
+Hi 👋, I specialize in Deep Learning and Computer Vision, with a focus on Unmanned Aerial Vehicles (UAVs). I have extensive experience in image classification, image segmentation, object detection, object recognition, object tracking, pose estimation, pattern recognition, and autonomous vehicles. I have contributed to several noteworthy projects in this field, including the Emergency Landing Site Identification System, Sense and Avoid System, Guidance for Autonomous Landing, and Vision-Based Navigation of UAVs in GPS Denied Conditions. 
 
-The projects I have been working on; Emergency Landing Site Identification System, Sense and Avoid System, Guidance for Autonomous Landing, Vision-Based Navigation of UAV in GPS Denied Conditions
-
-My skills; Image classification, Image Segmentation, Object Detection, Object Recognition, Object Tracking, Pose Estimation, Pattern Recognition, Autonomous Vehicles
-
-You can access my work on my website (www.bulentsiyah.com). You can review the source codes of all my work from my Kaggle and Github profiles.
+You can find more information about my work on my website at www.bulentsiyah.com. Additionally, I have shared the source code for all of my projects on both Kaggle and Github.
 
 #ComputerVision #DeepLearning
 
-[My Resume is here](https://github.com/bulentsiyah/bulentsiyah/blob/master/Bulent_Siyah_resume_2020-05-16.pdf)
-
-![Visitors since 22 Nov 2021](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=bulentsiyah&repo=bulentsiyah&countColor=%23f47373)
+[My Resume is here](https://github.com/bulentsiyah/bulentsiyah/blob/master/Bulent_Siyah_resume_2023-03-01.pdf)
 
 --------------------------------
 ## 🤝🏻 Connect with Me
@@ -29,10 +23,3 @@ You can access my work on my website (www.bulentsiyah.com). You can review the s
 [![GitHub followers](https://img.shields.io/github/followers/bulentsiyah?style=social)](https://www.github.com/bulentsiyah)
 
 --------------------------------
-
-## 💻 My Kaggle Stats 
-
-| ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/notebook) | ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/dataset) | ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/discussion) | ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/bulentsiyah/competition)   
-| -
-
-![bulentsiyah](https://road-to-kaggle-grandmaster.vercel.app/api/simple/bulentsiyah)
