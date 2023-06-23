@@ -11,7 +11,7 @@ You can find more information about my work on my website at www.bulentsiyah.com
 
 | [![](https://img.shields.io/static/v1?style=for-the-badge&message=bulentsiyah.com&color=red&logo=Google+Chrome&logoColor=FFFFFF&label=)](https://www.bulentsiyah.com/)     | [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bulentsiyah/) |  [![](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bulentsiyah/)  | 
 | ----------- | ----------- |--- |
-|  [![](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/bulentsiyah/)       | [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siyahbulent/)        | [![](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=FFFFFF&label=)](https://www.kaggle.com/bulentsiyah/)|
+|  [![](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/bulentsiyah/)       | [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bulentsiyah/)        | [![](https://img.shields.io/static/v1?style=for-the-badge&message=Kaggle&color=222222&logo=Kaggle&logoColor=FFFFFF&label=)](https://www.kaggle.com/bulentsiyah/)|
 
 ------------------------------
 
