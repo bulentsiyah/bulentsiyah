@@ -1,4 +1,8 @@
-Hi 👋, I specialize in Deep Learning and Computer Vision, with a focus on Unmanned Aerial Vehicles (UAVs). I have extensive experience in image classification, image segmentation, object detection, object recognition, object tracking, pose estimation, pattern recognition, and autonomous vehicles. I have contributed to several noteworthy projects in this field, including the Emergency Landing Site Identification System, Sense and Avoid System, Guidance for Autonomous Landing, and Vision-Based Navigation of UAVs in GPS Denied Conditions. 
+Hi 👋, I work on code generation in a working group called AILab. I create a model for LLM applications with the company's own code writing culture. I do data preparation, model training and model scoring for LLM models. I calculate the improved or weakened competencies before and after fine-tuning.
+
+You can find more information about my work on my website at www.bulentsiyah.com. Additionally, I have shared the source code for all of my projects on both Kaggle and Github.
+
+#LargeLanguageModel #DeepLearning
 
 You can find more information about my work on my website at www.bulentsiyah.com. Additionally, I have shared the source code for all of my projects on both Kaggle and Github.
 
