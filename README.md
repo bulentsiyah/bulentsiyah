@@ -2,11 +2,7 @@ Hi 👋, I work on code generation in a working group called AILab. I create a m
 
 You can find more information about my work on my website at www.bulentsiyah.com. Additionally, I have shared the source code for all of my projects on both Kaggle and Github.
 
-#LargeLanguageModel #DeepLearning
-
-You can find more information about my work on my website at www.bulentsiyah.com. Additionally, I have shared the source code for all of my projects on both Kaggle and Github.
-
-#ComputerVision #DeepLearning
+#LargeLanguageModel #DeepLearning #ComputerVision 
 
 [My Resume is here](https://github.com/bulentsiyah/bulentsiyah/blob/master/Bulent_Siyah_resume_2023-03-01.pdf)
 
